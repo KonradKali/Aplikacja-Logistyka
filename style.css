@@ -1,0 +1,750 @@
+
+
+
+
+
+@media screen and (min-width: 768px) {      /*START PC*/
+.bg {
+  
+  background-image: url("img/tlo.jpg");
+
+ 
+  height: 100%; 
+
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body, html {
+  height: 100%;
+  margin: 0;
+
+}
+
+
+
+#bt1{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 370px;
+  height: 370px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+
+
+}
+
+
+#bt1:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt2{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 370px;
+  height: 370px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+}
+
+#bt2:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt3{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 370px;
+  height: 370px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+}
+
+#bt3:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt4{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 370px;
+  height: 370px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+}
+
+#bt4:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt5{
+border-radius: 15px;
+  background-color: white; 
+  color: black; 
+ 
+    opacity:0.8;
+
+}
+
+#bt5:hover {
+  background-color: black;
+  color: white;
+}
+
+/* przyciski 2 */
+
+#bt11{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 280px;
+  height: 100px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+
+
+}
+
+
+#bt11:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt22{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 280px;
+  height: 100px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+}
+
+#bt22:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt33{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 280px;
+  height: 100px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+}
+
+#bt33:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt44{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 280px;
+  height: 100px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:20px ;
+ font-size: 30px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+}
+
+#bt44:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+                                                        /*  Chat */
+#output2{
+  background-color: white;
+  box-shadow: 0px 1px 1px #000;
+  height: 350px;
+  margin-bottom: 20px;
+  overflow: scroll;
+  
+}
+
+#output3 ul{
+  list-style: none;
+
+}
+#output3 input[type=submit]{
+  width: 100px;
+  box-sizing: border-box;
+  border: 4px solid #6495ed;
+}
+#output3 textarea{
+  background-color: #dcdcdc;
+  width: 6  00px;
+}
+#output3 body{
+  background-color: #dc143c;
+}
+
+
+                                                                                    /* register*/
+
+
+#reg .register{
+  border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+}
+#reg .buttonreje{
+color: white;
+  background-color: #6495ed;
+  padding: 15px;
+}
+
+
+                                                                            /* WYŚWIETL IMG */
+
+#tab table{
+
+  margin-top: 20px;
+    border: 1px solid black;
+
+}
+
+#tab td{
+
+  background-color: #dcdcdc;
+  border: 1px solid black;
+  width: 100px;
+  text-align: center;
+}
+
+#tab tr{
+  
+  background-color: #dcdcdc;
+  border: 2px solid black;
+  text-align: center;
+  color:  #6495ed;
+  opacity:0.9;  
+}
+
+#tab th{
+
+    width: 200px;
+}
+
+#tab td.tdimg{
+  width: 100px;
+  height: 100px;
+}
+
+
+#tab .usun{
+
+  color: #6495ed;
+}
+
+#tab .zmien{
+
+  color: #6495ed;
+}
+
+
+                                                  /* wyswietl doc */
+
+#wysdoc h1{
+  color: #00FF00;
+}
+
+#wysdoc  a{
+  color: #6495ed;
+}
+
+#wysdoc  table {
+width: 60%;
+border-collapse: collapse;
+margin: 100px auto;
+border: 1px solid black;
+background-color: #dcdcdc;
+opacity: 0.9;
+width: 1000px;
+}
+
+#wysdoc th {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+  color: #6495ed;
+  text-align: center;
+} 
+
+#wysdoc  td {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+  color: #6495ed;
+  text-align: center;
+}
+
+                                                   /* dodawnie zdjecia uesr */
+
+#addimg{
+
+  border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+ 
+  
+}
+#addimg .buttonaddimg{
+
+color: white;
+  background-color: #6495ed;
+  padding: 5px;
+  margin-top: 5px;
+}
+                                                             /* dokumenty do pobrania */
+#doc {
+
+}
+#doc .center h1{
+  color: #00FF00;
+}
+
+#doc .center a{
+  color: #00FF00;
+}
+
+#doc .centercenter {
+  color: #00FF00;
+}
+
+                                                             /* dokumenty do pobrania */
+#doc {
+ border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+}
+#doc h1{
+
+  color: black;
+}
+
+#doc a{
+
+  color: #6495ed;
+}
+#doc li{
+  color: #6495ed;
+}
+
+#doc .buttondoc{
+  color: white;
+  background-color: #6495ed;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+                                                                            /*zmien zdjecie*/
+#zmien {
+  border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+#zmien .buttonzmien{
+  color: white;
+  background-color: #6495ed;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+
+                                                                          } /*  KONIEC PC  */
+
+@media screen and (max-width: 480px) {        /* START MOBILE */
+body, html {
+  height: 100%;
+  margin: 0;
+}
+.bg {
+  
+  background-image: url("img/tlo.jpg");
+
+ 
+  height: 100%; 
+
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#bt11{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 90px;
+  height: 40px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:5px ;
+ font-size: 10px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+
+
+}
+
+
+#bt11:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt22{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 90px;
+  height: 40px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:5px ;
+ font-size: 10px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+}
+
+#bt22:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt33{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  width: 90px;
+  height: 40px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:5px ;
+ font-size: 10px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+ 
+
+}
+
+#bt33:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+
+#bt44{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+ width: 90px;
+  height: 40px;
+  opacity:0.8;
+  border-radius: 30px;
+ margin:5px ;
+ font-size: 10px;
+ font-weight: 900;
+ font-family: Comic Sans MS;
+
+
+}
+
+#bt44:hover {
+  background-color: #f44336;
+  color: white;
+   
+}
+                                                        /*  Chat */
+#output2{
+  background-color: white;
+  box-shadow: 0px 1px 1px #000;
+  height: 350px;
+  margin-bottom: 56px;
+  overflow: scroll;
+  
+}
+
+#output3 ul{
+  list-style: none;
+
+}
+#output3 input[type=submit]{
+  width: 200px;
+  box-sizing: border-box;
+  border: 4px solid #6495ed;
+}
+#output3 textarea{
+  background-color: #dcdcdc;
+  width: 260px;
+}
+#output3 body{
+  background-color: #dc143c;
+}
+
+
+                                                                /*Register*/
+
+
+
+
+
+
+
+
+#reg .register{
+  border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+}
+#reg .buttonreje{
+color: white;
+  background-color: #6495ed;
+  padding: 15px;
+}
+
+
+
+
+                                                                  /* WYŚWIETL IMG */
+
+#tab table{
+
+  margin-top: 20px;
+    border: 1px solid black;
+
+}
+
+#tab td{
+
+  background-color: #dcdcdc;
+  border: 1px solid black;
+  width: 100px;
+  text-align: center;
+}
+
+#tab tr{
+  
+  background-color: #dcdcdc;
+  border: 2px solid black;
+  text-align: center;
+  color:  #6495ed;
+  opacity:0.8;  
+}
+
+#tab th{
+
+    width: 100px;
+}
+
+#tab td.tdimg{
+  width: 100px;
+  height: 100px;
+}
+
+
+#tab .usun{
+
+  color: #6495ed;
+}
+
+#tab .zmien{
+
+  color: #6495ed;
+}
+
+
+                                                  /* wyswietl doc */
+
+#wysdoc h1{
+  color: #00FF00;
+}
+
+#wysdoc  a{
+  color: #6495ed;
+}
+
+#wysdoc  table {
+width: 60%;
+border-collapse: collapse;
+margin: 100px auto;
+border: 1px solid black;
+background-color: #dcdcdc;
+opacity: 0.9;
+width: 350px;
+}
+
+#wysdoc th {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+  color: #6495ed;
+  text-align: center;
+} 
+
+#wysdoc  td {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+  color: #6495ed;
+  text-align: center;
+}
+
+                                                    /* dodawnie zdjecia uesr */
+
+#addimg{
+
+  border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+ 
+  
+}
+#addimg .buttonaddimg{
+
+color: white;
+  background-color: #6495ed;
+  padding: 5px;
+  margin-top: 5px;
+}
+                                                             /* dokumenty do pobrania */
+#doc {
+ border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+}
+#doc h1{
+
+  color: black;
+}
+
+#doc a{
+
+  color: #6495ed;
+}
+#doc li{
+  color: #6495ed;
+}
+
+#doc .buttondoc{
+  color: white;
+  background-color: #6495ed;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+                                                                            /*zmien zdjecie*/
+#zmien {
+  border-radius: 30px;
+  background-color:#dcdcdc;
+  text-align: center;
+  opacity: 0.9  ;
+  color: #6495ed;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+#zmien .buttonzmien{
+  color: white;
+  background-color: #6495ed;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+                                    
+                                                                          } /* KONIEC MOBILE */
+
+
+
